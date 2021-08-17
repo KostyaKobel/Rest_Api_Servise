@@ -1,0 +1,8 @@
+Started GET "/" for 127.0.0.1 at 2021-08-17 16:32:32 +0300
+Processing by Rails::WelcomeController#index as HTML
+  Parameters: {"internal"=>true}
+  Rendering /home/dooomlord/.rvm/gems/ruby-2.7.0/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/dooomlord/.rvm/gems/ruby-2.7.0/gems/railties-5.0.7.2/lib/rails/templates/rails/welcome/index.html.erb (3.6ms)
+Completed 200 OK in 9ms (Views: 8.4ms | ActiveRecord: 0.0ms)
+
+
